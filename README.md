@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Taras, a game developer (BSc at Glasgow Caledonian University) and a computer scientist (HND at City of Glasgow College) interested in all things game dev!
+My name is Taras, and I am a passionate game developer!
 
   - I'm currently learning game development, you can find and play my projects [here](https://dartous-games.itch.io/)!
   - You can contact me via email (tarasvol1609@gmail.com) or [linkedIn](https://www.linkedin.com/in/voloshyn-taras/).
