@@ -23,5 +23,5 @@ I am a passionate game developer in my 4th year of the Games Development BSc, as
 • Designed and implemented Chess AI, fit for the purpose of the game.<br />
 • Implemented audio and UI game elements.<br />
 <br />
-You can download and play the game by following this link to the game's itch. io page: https://gcugames.itch.io/chess-card-puzzler
-And look at the source code via github: 
+You can download and play the game by following this link to the game's itch. io page: https://gcugames.itch.io/chess-card-puzzler <br />
+And look at the source code via GitHub: https://github.com/GCU-IP3/CardsAreKing
