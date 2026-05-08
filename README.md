@@ -12,7 +12,7 @@ I am a passionate game developer in my final year of the Games Development BSc, 
 ---
 ## Projects
 
-### Cards are King
+### <ins>Cards are King</ins>
 `Chess Card Puzzle Game`
 
 <img width="600" height="330" src="https://github.com/user-attachments/assets/1dd4cf1a-a047-4161-ae4b-da58ee775a95" alt="CardsAreKing" />
@@ -27,16 +27,27 @@ You can download and play the game by going to the game's <a href="https://gcuga
 <br />
 
 
-### Fable Fight
+### <ins>Fable Fight</ins>
 `Tower Defence Game`
 
-<img width="600" height="330" alt="image" src="https://github.com/user-attachments/assets/880cd516-ad19-41e1-97bf-bacb077b71b6" />
-
+<img width="600" height="330" alt="image" src="https://github.com/user-attachments/assets/880cd516-ad19-41e1-97bf-bacb077b71b6" /> 
+<br />
+<img width="600" height="330" alt="image" src="https://github.com/user-attachments/assets/30bee610-905e-451d-82eb-00ea8b6faae5" />
 <br/>
 • Worked as a Lead Programmer with a team of talented programmers, artists and designers to create a game inspired by Plants vs. Zombies.<br />
 • Mentored a less experienced programmer throughout the project. <br />
 • Implemented a scalable wave spawning system and projectile hit detection. <br />
 • Implemented game audio and UI. <br />
 <br />
-You can download and play the game by going to the game's <a href="https://tarasvoloshyn.itch.io/fable-fight">Itch.io Page</a> and look at the source code via <a href="https://github.com/Dartous/FableFightGame">GitHub</a>. <br />
+You can download or play the game online by going to the game's <a href="https://tarasvoloshyn.itch.io/fable-fight">Itch.io Page</a> and look at the source code via <a href="https://github.com/Dartous/Precision">GitHub</a>. <br />
 <br />
+
+### <ins>Precision</ins>
+`FPS Game`
+
+<img width="600" height="330" alt="image" src="https://github.com/user-attachments/assets/f375e3f2-f4e4-459b-809e-3219218f3416" />
+<br />
+• Developed my first game ever, where precision matters as you have a limited magazine, but every kill gives you an instant reload. <br />
+• Implemented a wave spawning system for NPCs, core movement and shooting mechanics, as well as UI and audio. <br />
+<br/>
+You can download or play the game online by going to the game's <a href="https://tarasvoloshyn.itch.io/precision">Itch.io Page</a> and look at the source code via <a href="https://github.com/Dartous/FableFightGame">GitHub</a>. <br />
