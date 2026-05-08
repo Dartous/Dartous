@@ -6,9 +6,8 @@ I am a passionate game developer in my final year of the Games Development BSc, 
 <br />
   - 🧠 Languages and Tools I learn or master: Unity, Unreal Engine 5, C#, C++, Python, JavaScript
   - 🗲 My hyperfixation: 🤖 NPC behaviour, on which I am writing my research paper
-<br />
-
 ---
+
 ## Projects
 
 ### <ins>Cards are King</ins>
