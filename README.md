@@ -4,7 +4,6 @@
 
 I am a passionate game developer in my final year of the Games Development BSc, as well as a programmer with an HND in Computer Science. I am dedicated to creating beautiful experiences for the players and committed to writing clean code with robust architecture, following the best practices in game development. I am eager to learn and gain experience in my journey!
 <br />
-  - ✉️ You can contact me via email (tarasvol1609@gmail.com) or [linkedIn](https://www.linkedin.com/in/voloshyn-taras/).
   - 🧠 Languages and Tools I learn or master: Unity, Unreal Engine 5, C#, C++, Python, JavaScript
   - 🗲 My hyperfixation: 🤖 NPC behaviour, on which I am writing my research paper
 <br />
