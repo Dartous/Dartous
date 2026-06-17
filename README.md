@@ -1,3 +1,4 @@
+
 # Taras Voloshyn
 
 **`Game Developer`**
@@ -10,10 +11,12 @@ I am a passionate game developer in my final year of the Games Development BSc, 
 
 ## Projects
 
+
 ### <ins>Cards are King</ins>
 `Chess Card Puzzle Game`
 
-<img width="600" height="330" src="https://github.com/user-attachments/assets/1dd4cf1a-a047-4161-ae4b-da58ee775a95" alt="CardsAreKing" />
+<img width="600" height="330" src="https://github.com/user-attachments/assets/1dd4cf1a-a047-4161-ae4b-da58ee775a95" alt="CardsAreKing" /> <br/>
+<img width="600" height="330" src="https://github.com/user-attachments/assets/385e916a-8f20-4582-b8b8-eac8774dca34" />
 
 <br />
 • Worked as a Programmer and AI Lead with a team of talented programmers, artists and designers to create a chess card puzzle game.<br />
@@ -43,8 +46,7 @@ You can download or play the game online by going to the game's <a href="https:/
 ### <ins>Precision</ins>
 `FPS Game`
 
-<img width="600" height="330" alt="image" src="https://github.com/user-attachments/assets/f375e3f2-f4e4-459b-809e-3219218f3416" />
-<br />
+<img width="600" height="330" alt="image" src="https://github.com/user-attachments/assets/f375e3f2-f4e4-459b-809e-3219218f3416" /> <br/>
 • Developed my first game ever, where precision matters as you have a limited magazine, but every kill gives you an instant reload. <br />
 • Implemented a wave spawning system for NPCs, core movement and shooting mechanics, as well as UI and audio. <br />
 <br/>
