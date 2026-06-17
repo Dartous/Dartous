@@ -1,4 +1,3 @@
-
 # Taras Voloshyn
 
 **`Game Developer`**
@@ -15,8 +14,7 @@ I am a passionate game developer in my final year of the Games Development BSc, 
 ### <ins>Cards are King</ins>
 `Chess Card Puzzle Game`
 
-<img width="600" height="330" src="https://github.com/user-attachments/assets/1dd4cf1a-a047-4161-ae4b-da58ee775a95" alt="CardsAreKing" /> <br/>
-<img width="600" height="330" src="https://github.com/user-attachments/assets/385e916a-8f20-4582-b8b8-eac8774dca34" />
+<img width="600" height="330" alt="CardsAreKing_Gameplay" src="https://github.com/user-attachments/assets/f5003d3f-b312-416d-a8eb-47fb153a4030" /> <br/>
 
 <br />
 • Worked as a Programmer and AI Lead with a team of talented programmers, artists and designers to create a chess card puzzle game.<br />
@@ -31,10 +29,8 @@ You can download and play the game by going to the game's <a href="https://gcuga
 ### <ins>Fable Fight</ins>
 `Tower Defence Game`
 
-<img width="600" height="330" alt="image" src="https://github.com/user-attachments/assets/880cd516-ad19-41e1-97bf-bacb077b71b6" /> 
-<br />
-<img width="600" height="330" alt="image" src="https://github.com/user-attachments/assets/30bee610-905e-451d-82eb-00ea8b6faae5" />
-<br/>
+<img width="600" height="330" alt="FableFight_Gameplay" src="https://github.com/user-attachments/assets/4ccc3fb3-98c0-40f5-8dc6-3f3568fbed31" /> <br/>
+
 • Worked as a Lead Programmer with a team of talented programmers, artists and designers to create a game inspired by Plants vs. Zombies.<br />
 • Mentored a less experienced programmer throughout the project. <br />
 • Implemented a scalable wave spawning system and projectile hit detection. <br />
@@ -46,7 +42,7 @@ You can download or play the game online by going to the game's <a href="https:/
 ### <ins>Precision</ins>
 `FPS Game`
 
-<img width="600" height="330" alt="image" src="https://github.com/user-attachments/assets/f375e3f2-f4e4-459b-809e-3219218f3416" /> <br/>
+<img width="600" height="330" alt="gif" src="https://github.com/Dartous/storage/blob/main/Precision_Gameplay.gif"/> <br/>
 • Developed my first game ever, where precision matters as you have a limited magazine, but every kill gives you an instant reload. <br />
 • Implemented a wave spawning system for NPCs, core movement and shooting mechanics, as well as UI and audio. <br />
 <br/>
