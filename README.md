@@ -49,11 +49,23 @@ You can download or play the game online by going to the game's <a href="https:/
 You can download or play the game online by going to the game's <a href="https://tarasvoloshyn.itch.io/precision">Itch.io Page</a> and look at the source code via <a href="https://github.com/Dartous/FableFightGame">GitHub</a>. <br />
 
 ### <ins>Game AI Showcase</ins>
+`C#`
+
+<img width="600" height="330" alt="AI_Showcase_CSharp" src="https://github.com/user-attachments/assets/b24bb070-34a2-4ce5-9cb7-65b704a99165" /> <br/>
+
+• Implemented map agents with the goal to eliminate all enemies on a procedurally generated map as quickly as possible, sustaining the least amount of losses possible. <br/>
+• Built agent's logic via Decision Trees. <br/>
+• Developed logic, allowing agents to dodge incoming projectiles. <br/>
+• Implemented A* pathfinding. <br/><br/>
+You can watch a video essay on the project via <a href="https://youtu.be/d5Ot8JnIhoM">YouTube</a> and look at the source code via <a href="https://github.com/Dartous/AIcoursework">GitHub</a>. <br />
+
+
+### <ins>Game AI Showcase</ins>
 `UE5 Behaviour Trees and Perception`
 
 <img width="600" height="330" alt="NPC_Brain_Showcase" src="https://github.com/user-attachments/assets/8c04ac0b-8c23-4b47-8f66-7754508003b6" /> <br/>
 
 • Implemented melee and ranged NPC logic in UE5 blueprints. <br/>
 • NPC's perception includes sound and visual recognition. <br/>
-• NPCs have 4 States, and the higher ones take priority over the lower ones: dead, attacking, investigating and passive. <br/>
+• NPCs have 4 States, and the higher ones take priority over the lower ones: dead, attacking, investigating and passive. <br/><br/>
 You can access a break down of NPC's logic and look at the source code via <a href="https://github.com/GCU-UnrealDev/unreal-game-dev-coursework-team-06">GitHub</a>. <br />
