@@ -47,3 +47,13 @@ You can download or play the game online by going to the game's <a href="https:/
 • Implemented a wave spawning system for NPCs, core movement and shooting mechanics, as well as UI and audio. <br />
 <br/>
 You can download or play the game online by going to the game's <a href="https://tarasvoloshyn.itch.io/precision">Itch.io Page</a> and look at the source code via <a href="https://github.com/Dartous/FableFightGame">GitHub</a>. <br />
+
+### <ins>Game AI Showcase</ins>
+`UE5 Behaviour Trees and Perception`
+
+<img width="600" height="330" alt="NPC_Brain_Showcase" src="https://github.com/user-attachments/assets/8c04ac0b-8c23-4b47-8f66-7754508003b6" /> <br/>
+
+• Implemented melee and ranged NPC logic in UE5 blueprints. <br/>
+• NPC's perception includes sound and visual recognition. <br/>
+• NPCs have 4 States, and the higher ones take priority over the lower ones: dead, attacking, investigating and passive. <br/>
+You can access a break down of NPC's logic and look at the source code via <a href="https://github.com/GCU-UnrealDev/unreal-game-dev-coursework-team-06">GitHub</a>. <br />
